@@ -1,3 +1,3 @@
 " Based on
-runtime colors/ir_black.vim
+runtime colors/grb256.vim
 
