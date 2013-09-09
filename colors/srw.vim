@@ -1,5 +1,5 @@
 " Based on
-runtime colors/grb256.vim
+runtime colors/threatstack.vim
 
 let g:colors_name = "srw"
 
