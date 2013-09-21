@@ -9,3 +9,5 @@ if has("spell")
     hi! link SpellCap SpellBad
     hi! link SpellLocal SpellBad
 endif
+
+hi TODO guifg=#FFAAAA
